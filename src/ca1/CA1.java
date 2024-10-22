@@ -45,7 +45,7 @@ import java.util.Scanner;
                 Scanner scanner = new Scanner(System.in);
         
                 //asking customer for Name
-                System.out.print("Name & Surname: ");
+                System.out.print("Name & Surname (First Name must be LETTERS ONLY): ");
                 String Name = scanner.nextLine();
         
                 //asking customer for Purchase Value
