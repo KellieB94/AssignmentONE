@@ -12,7 +12,7 @@ import java.io.IOException;
 
 public class CA1 {
 
-    //https://github.com/KellieB94/CA1.git - GitHub Repo
+    //https://github.com/KellieB94/AssignmentONE.git - GitHub Repo
     
         public static void main(String[] args) {
        
