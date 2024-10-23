@@ -132,9 +132,10 @@ public class CA1 {
         );
          //assignment of new Customer file Path(comment)
         CustomersToFile(customers, "customerdiscount.txt");
+        
+        //NOTE TO CRISTIANI - I MADE THE GITHUB REPO AFTER I FINISHED PART ONE
+        //THE STARTING FILE IS NOT IN MY FOLDER BECAUSE OF THAT, I THINK. 
+        //ALSO, THANKS FOR BEING A GREAT PROFESSOR, BEST OF LUCK WITH YOUR FUTURE, 
+        //YOU MADE ME FALL IN LOVE WITH MATHS AGAIN 
     }
 }
-
-
-
-
