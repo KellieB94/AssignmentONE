@@ -1,0 +1,7 @@
+Customer{Name='Patrick Moss', Final Value='79.2'}
+Customer{Name='Barry Smart', Final Value='2780.0'}
+Customer{Name='Declan Walsh', Final Value='189.0'}
+Customer{Name='Sam Weiss', Final Value='455.01'}
+Customer{Name='Peter Nolan', Final Value='159.8'}
+Customer{Name='Katie White', Final Value='78.0'}
+Customer{Name='Cristiani Eccher', Final Value='1477.31'}

@@ -6,6 +6,7 @@ package ca1;
 
 public class ClassDiscount {
     
+    //attributes of my ClassDiscount Class
     private double purVal;
     private double claDis;
     

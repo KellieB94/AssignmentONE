@@ -4,10 +4,27 @@
  */
 package ca1;
 
-/**
- *
- * @author ismis
- */
-public class CuSTomers {
+//Library Initialization
+import java.io.Serializable;
+
+public class CuSTomers implements Serializable{
     
-}
+    //customer data - attributes from my Customers class
+    private String name;
+    private double finVal;
+    
+    //return data - methods to get return data
+    public CuSTomers(String name, double finVal){
+        this.name = name;
+        this.finVal = finVal;
+        
+    }
+    @Override 
+     //method to return data to written file in ARRAY STRING 
+     public String toString(){
+         return "Customer{Name='" + name + "', Final Value='" + finVal + "'}";
+                 
+     }
+    
+} 
+  
